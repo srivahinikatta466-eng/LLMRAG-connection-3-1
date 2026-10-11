@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.LLMRAGConnection"
+        parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorAccent">#4CAF50</item>
+
+    </style>
+
+</resources>
